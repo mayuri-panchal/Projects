@@ -1,2 +1,2 @@
 # Projects
-Projects regarding Data Structures, File Handling.
+Projects regarding Data Structures, File Handling, Java collections, Networking concepts.
